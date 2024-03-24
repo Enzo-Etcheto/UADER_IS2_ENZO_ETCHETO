@@ -25,4 +25,3 @@ plt.ylabel("Número de iteraciones")
 plt.title("Conjetura de Collatz (2n+1)")
 plt.show()
 
-plt.savefig("src/collatz.png")

@@ -18,7 +18,7 @@ for indice, nombre in lista_enumerada:
     print(f"{indice + 1}. {nombre}")
 
 ## Figura de Collatz
-![Seciencia de Collatz](src/collatz.png)
+![Seciencia de Collatz](src/Figure_1.png)
 
 ## Referencia
 https://es.wikipedia.org/wiki/Conjetura_de_Collatz

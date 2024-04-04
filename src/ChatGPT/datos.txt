@@ -1,0 +1,375 @@
+Datos del multimetric iniciales
+"files": {
+    "C:\\Users\\enzoe\\Documents\\Facultad\\2024\\ISW 2\\TP2\\integraciongpt.py": {
+      "comment_ratio": 24.379,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.46,
+      "halstead_difficulty": 24.7,
+      "halstead_effort": 34086.0,
+      "halstead_timerequired": 1893.667,
+      "halstead_volume": 1380.0,
+      "lang": [
+        "Python"
+      ],
+      "loc": 59,
+      "maintainability_index": 65.279,
+      "operands_sum": 117,
+      "operands_uniq": 45,
+      "operators_sum": 113,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    }
+  },
+  "overall": {
+    "comment_ratio": 24.379,
+    "cyclomatic_complexity": 9,
+    "fanout_external": 4,
+    "fanout_internal": 0,
+    "halstead_bugprop": 0.46,
+    "halstead_difficulty": 24.7,
+    "halstead_effort": 34086.0,
+    "halstead_timerequired": 1893.667,
+    "halstead_volume": 1380.0,
+    "loc": 59,
+    "maintainability_index": 65.279,
+    "operands_sum": 117,
+    "operands_uniq": 45,
+    "operators_sum": 113,
+    "operators_uniq": 19,
+    "pylint": 100.0,
+    "tiobe": 86.364,
+    "tiobe_compiler": 100.0,
+    "tiobe_complexity": 9.091,
+    "tiobe_coverage": 100.0,
+    "tiobe_duplication": 100.0,
+    "tiobe_fanout": 100.0,
+    "tiobe_functional": 100.0,
+    "tiobe_security": 100.0,
+    "tiobe_standard": 100.0
+  },
+  "stats": {
+    "max": {
+      "comment_ratio": 24.379,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.46,
+      "halstead_difficulty": 24.7,
+      "halstead_effort": 34086.0,
+      "halstead_timerequired": 1893.667,
+      "halstead_volume": 1380.0,
+      "loc": 59,
+      "maintainability_index": 65.279,
+      "operands_sum": 117,
+      "operands_uniq": 45,
+      "operators_sum": 113,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "mean": {
+      "comment_ratio": 24.379,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.46,
+      "halstead_difficulty": 24.7,
+      "halstead_effort": 34086.0,
+      "halstead_timerequired": 1893.667,
+      "halstead_volume": 1380.0,
+      "loc": 59,
+      "maintainability_index": 65.279,
+      "operands_sum": 117,
+      "operands_uniq": 45,
+      "operators_sum": 113,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "median": {
+      "comment_ratio": 24.379,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.46,
+      "halstead_difficulty": 24.7,
+      "halstead_effort": 34086.0,
+      "halstead_timerequired": 1893.667,
+      "halstead_volume": 1380.0,
+      "loc": 59,
+      "maintainability_index": 65.279,
+      "operands_sum": 117,
+      "operands_uniq": 45,
+      "operators_sum": 113,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "min": {
+      "comment_ratio": 24.379,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.46,
+      "halstead_difficulty": 24.7,
+      "halstead_effort": 34086.0,
+      "halstead_timerequired": 1893.667,
+      "halstead_volume": 1380.0,
+      "loc": 59,
+      "maintainability_index": 65.279,
+      "operands_sum": 117,
+      "operands_uniq": 45,
+      "operators_sum": 113,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    }
+  }
+ }
+
+datos despues de hacer cambios 
+"files": {
+    "C:\\Users\\enzoe\\Documents\\Facultad\\2024\\ISW 2\\UADER_IS2_ENZO_ETCHETO\\src\\ChatGPT\\integraciongpt.py": {
+      "comment_ratio": 31.141,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.469,
+      "halstead_difficulty": 23.851,
+      "halstead_effort": 33590.499,
+      "halstead_timerequired": 1866.139,
+      "halstead_volume": 1408.344,
+      "lang": [
+        "Python"
+      ],
+      "loc": 69,
+      "maintainability_index": 62.637,
+      "operands_sum": 118,
+      "operands_uniq": 47,
+      "operators_sum": 115,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    }
+  },
+  "overall": {
+    "comment_ratio": 31.141,
+    "cyclomatic_complexity": 9,
+    "fanout_external": 4,
+    "fanout_internal": 0,
+    "halstead_bugprop": 0.469,
+    "halstead_difficulty": 23.851,
+    "halstead_effort": 33590.499,
+    "halstead_timerequired": 1866.139,
+    "halstead_volume": 1408.344,
+    "loc": 69,
+    "maintainability_index": 62.637,
+    "operands_sum": 118,
+    "operands_uniq": 47,
+    "operators_sum": 115,
+    "operators_uniq": 19,
+    "pylint": 100.0,
+    "tiobe": 86.364,
+    "tiobe_compiler": 100.0,
+    "tiobe_complexity": 9.091,
+    "tiobe_coverage": 100.0,
+    "tiobe_duplication": 100.0,
+    "tiobe_fanout": 100.0,
+    "tiobe_functional": 100.0,
+    "tiobe_security": 100.0,
+    "tiobe_standard": 100.0
+  },
+  "stats": {
+    "max": {
+      "comment_ratio": 31.141,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.469,
+      "halstead_difficulty": 23.851,
+      "halstead_effort": 33590.499,
+      "halstead_timerequired": 1866.139,
+      "halstead_volume": 1408.344,
+      "loc": 69,
+      "maintainability_index": 62.637,
+      "operands_sum": 118,
+      "operands_uniq": 47,
+      "operators_sum": 115,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "mean": {
+      "comment_ratio": 31.141,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.469,
+      "halstead_difficulty": 23.851,
+      "halstead_effort": 33590.499,
+      "halstead_timerequired": 1866.139,
+      "halstead_volume": 1408.344,
+      "loc": 69,
+      "maintainability_index": 62.637,
+      "operands_sum": 118,
+      "operands_uniq": 47,
+      "operators_sum": 115,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "median": {
+      "comment_ratio": 31.141,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.469,
+      "halstead_difficulty": 23.851,
+      "halstead_effort": 33590.499,
+      "halstead_timerequired": 1866.139,
+      "halstead_volume": 1408.344,
+      "loc": 69,
+      "maintainability_index": 62.637,
+      "operands_sum": 118,
+      "operands_uniq": 47,
+      "operators_sum": 115,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "min": {
+      "comment_ratio": 31.141,
+      "cyclomatic_complexity": 9,
+      "fanout_external": 4,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.469,
+      "halstead_difficulty": 23.851,
+      "halstead_effort": 33590.499,
+      "halstead_timerequired": 1866.139,
+      "halstead_volume": 1408.344,
+      "loc": 69,
+      "maintainability_index": 62.637,
+      "operands_sum": 118,
+      "operands_uniq": 47,
+      "operators_sum": 115,
+      "operators_uniq": 19,
+      "pylint": 100.0,
+      "tiobe": 86.364,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 9.091,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    }
+  }
+}
+Datos de pylint
+
+pylint integraciongpt.py
+************* Module integraciongpt
+integraciongpt.py:12:37: C0303: Trailing whitespace (trailing-whitespace)
+integraciongpt.py:27:32: C0303: Trailing whitespace (trailing-whitespace)
+integraciongpt.py:34:90: C0303: Trailing whitespace (trailing-whitespace)
+integraciongpt.py:37:88: C0303: Trailing whitespace (trailing-whitespace)
+integraciongpt.py:71:0: C0304: Final newline missing (missing-final-newline)
+integraciongpt.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+integraciongpt.py:17:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+integraciongpt.py:22:0: C0116: Missing function or method docstring (missing-function-docstring)
+integraciongpt.py:67:15: W0718: Catching too general exception Exception (broad-exception-caught)
+integraciongpt.py:2:0: C0411: standard import "os" should be placed before third party import "openai" (wrong-import-order)
+integraciongpt.py:3:0: C0411: standard import "sys" should be placed before third party import "openai" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 4.05/10, +1.95)
+
+
+
+Despues de corregir los errores 
+************* Module integraciongpt
+integraciongpt.py:81:0: C0301: Line too long (110/100) (line-too-long)
+integraciongpt.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+integraciongpt.py:20:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+integraciongpt.py:78:15: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 8.95/10 (previous run: 8.16/10, +0.79)
+
+

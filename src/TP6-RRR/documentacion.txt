@@ -1,0 +1,61 @@
+A) Luego de obtenido el getjason.pyc con el json y la correspondiente documentacion. 
+Se encuentra: 
+El archivo getjason.pyc con sus respectivas versiones, las cuales no se pueden compilar.
+El json con los respectivos tokens 
+El README dando la explicacion de como funciona el sistema extractor de toker para un banco.
+
+-Luego de seguir los pasos 1-6 
+
+-Se instalo el paquete uncompyle6 para extraer el archivo
+
+-Se decompilo el getjason opteniendo 
+# uncompyle6 version 3.9.1
+# Python bytecode version base 2.7 (62211)
+# Decompiled from: Python 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]
+# Embedded file name: getJason.py
+# Compiled at: 2022-06-14 16:15:55
+import json, sys
+jsonfile = sys.argv[1]
+jsonkey = sys.argv[2]
+with open(jsonfile, 'r') as myfile:
+    data = myfile.read()
+obj = json.loads(data)
+print str(obj[jsonkey])
+
+# okay decompiling getJason.pyc
+
+-Se encontro un error en la linea donde muestra el objeto en que modifique 
+"print str(obj[jsonkey])" el cual da error ya que el str debe ir dentro de ()
+Corregimos ese error y ejecutamos para obtener los tokens del json 
+
+3)
+
+A) y B) Se implementa el patron Singleton y se lo orienta a objetos
+
+C) Se añande un try and except para la gestion de errores 
+
+E)Se comenta las distintas partes del codigo y se agrega (c) UADER-FCyT-IS2 2024. Todos los derechos reservados.
+
+G)Se agrega argumento para saber la version
+
+H)Se hace revision con Pylint
+    Your code has been rated at 8.84/10 (previous run: 7.73/10, +1.11)
+    Da como resultado mas de 8
+
+4)
+
+A) y B) Partimos del Singleton existente y luego implementamos la automatizacion del proceso de decision 
+y la gestion de pagos.
+
+C) y D)  Implementacion de la Clase con el Patron Chain of Reponsability
+
+E) Control de Pagos y Listado con Patron Iterator
+Implementa la funcion lista_pagos para listar todos los pagos realizados en orden cronologico utilizando 
+el patron Iterator.
+
+F)Actualizamos a version 1.2
+
+H) Verificamos con el Pylint
+    Your code has been rated at 8.09/10 (previous run: 7.56/10, +0.53)
+    Da como resultado mas de 8
+
